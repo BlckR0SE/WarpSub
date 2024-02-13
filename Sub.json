@@ -48,7 +48,7 @@
     },
   {
       "type": "wireguard",
-      "tag": "Warp-Teh-TCI",
+      "tag": "Warp Teh TCI",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:8db8:641a:27b6:1a24:5b9d/128"
